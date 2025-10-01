@@ -45,8 +45,9 @@ This project analyzes hotel pricing data from multiple OTA platforms to uncover 
 ## Dataset
 
 The analysis uses hotel booking data from multiple OTA platforms:
-- Dataset: `Great deals_Booking Hotels.csv`
+- Dataset: [`Great deals_Booking Hotels.csv`](https://www.kaggle.com/datasets/reenapinto/great-deals-booking-hotels)
 - Encoding: Latin1 (to handle special characters)
+
 
 ### Key Features:
 - Hotel/Resort names and types
@@ -59,7 +60,7 @@ The analysis uses hotel booking data from multiple OTA platforms:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/defrijay/Strategic-Revenue-Management.git
 
 # Install required packages
 pip install pandas numpy matplotlib seaborn plotly scikit-learn
