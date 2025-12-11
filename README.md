@@ -1,5 +1,7 @@
 # **Strategic Revenue Management** - An Analysis of Hotel Pricing Dynamics in the Online Travel Agent (OTA) Market
 
+![Cover Project](./cover.png)
+
 ## 📑 Table of Contents
 
 - [Project Overview](#project-overview)
